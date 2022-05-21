@@ -1,0 +1,13 @@
+.ant-table-thead > tr > th {
+    position: relative;
+    color: #f0f0f0;
+    font-weight: 500;
+    text-align: left;
+    background: #d98f18;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background 0.3s ease;
+}
+code {
+    color:rgba(98, 93, 87, 0.807);
+    margin-left: 2em;
+}
